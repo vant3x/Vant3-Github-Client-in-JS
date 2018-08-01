@@ -1,0 +1,5 @@
+{
+  // aquí, luego de crear y configurar su app desde github reemplazan las x con el client id y el client secret de la aplicación
+  "client_id": "xxxxxxxxxxxxxxxx",
+  "client_secret": "xxxxxxxxxxxxxxxx"
+}
